@@ -55,4 +55,4 @@ Example: inputFile.txt (2.06MB) is compressed to compressedFile.huf (1.09MB) fil
 ![image](https://github.com/RaumdeuterTM25/https---github.com-RaumdeuterTM25-ByteSqueeze/assets/92806873/8abe3783-c7d3-407f-846f-82ccc70dd391)
 ![image](https://github.com/RaumdeuterTM25/https---github.com-RaumdeuterTM25-ByteSqueeze/assets/92806873/a6758ce6-aacf-4475-9214-47ae9abd2030)
 
-
+For any confusion or doubts in the code you can always refer to https://docs.google.com/document/d/1p8P7LkBragVmmCTk_kZsqRrfM6o5dnlZLuex-bRdm-s/edit?usp=sharing.
